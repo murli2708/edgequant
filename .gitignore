@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+build/
+dist/
+
+# uv / virtualenv  (uv.lock and .python-version ARE committed for reproducibility)
+.venv/
+
+# Tooling caches
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.ipynb_checkpoints/
+
+# Experiment tracking & reports
+wandb/
+runs/
+
+# Model weights & converted artifacts (never commit these)
+*.onnx
+*.gguf
+*.tflite
+*.mlmodel
+*.mlpackage
+*.bin
+*.pt
+*.pth
+
+# OS / editor
+.DS_Store
+.idea/
