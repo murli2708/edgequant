@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/banner.svg" alt="EdgeQuant — Phase 2 · The Diet · quantization & benchmarking harness" width="100%"></p>
+
 # EdgeQuant — a quantization & benchmarking harness
 
 ![Phase](https://img.shields.io/badge/Phase%202-The%20Diet-7C3AED)
